@@ -194,8 +194,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `Hacktivist bot`,
-                  "description": "Havktivist bot git link",
+                  "title": `ʜᴀᴄᴋᴛɪᴠɪsᴛ ʙᴏᴛ`,
+                  "description": "ʜᴀᴄᴋᴛɪᴠɪsᴛ ʙᴏᴛ git link",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
@@ -362,7 +362,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg")).buffer(), text.trim(), '© ᴡɪᴢᴀʀᴅ sᴇʀ ©', 'Owner Bot', ',owner', 'All Commands', '.? all', m)
+    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg")).buffer(), text.trim(), '© ᴍʀ.ʜᴀᴄᴋᴛɪᴠɪsᴛ ©', 'Owner Bot', ',owner', 'All Commands', '.? all', m)
   } catch (e) {
     conn.reply(m.chat, 'Sorry, Try Again', m)
     throw e
