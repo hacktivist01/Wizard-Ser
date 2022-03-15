@@ -194,87 +194,87 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `ʜᴀᴄᴋᴛɪᴠɪsᴛ ʙᴏᴛ`,
-                  "description": "ʜᴀᴄᴋᴛɪᴠɪsᴛ ʙᴏᴛ git link",
+                  "title": `Hacktivist bot`,
+                  "description": "Havktivist bot git link",
                   "rowId": ".git"
                 }, {
-                  "title": "💻ɢᴀᴍᴇ",
-                  "description": "ɢᴀᴍᴇ ғᴇᴀᴛᴜʀᴇs",
+                  "title": "💻Game",
+                  "description": "Game features",
                   "rowId": ".? game"
 
                 }, {
-                  "title": "💸xᴘ",
-                  "description": "ғᴇᴀᴛᴜʀᴇs ʟᴇᴠᴇʟ & ᴜsᴀɢᴇ ʟɪᴍɪᴛ",
+                  "title": "💸XP",
+                  "description": "Features level & usage limit",
                   "rowId": ".? xp"
 
                 },  {
-                  "title": "ᴠɪᴅᴇᴏ ᴍᴀᴋᴇʀ",
-                  "description": "ᴍᴀᴋɪɴɢ ᴅɪғғᴇʀᴇɴᴛ ᴛʏᴘᴇs ᴏғ ᴠɪᴅᴇᴏs",
+                  "title": "Video Maker",
+                  "description": "Making Different Types Of Videos",
                   "rowId": ".? .videomaker"
 
                 },{
-                  "title": "sᴛɪᴋᴇʀ",
-                  "description": "ғᴇᴀᴛᴜʀᴇs ғᴏʀ ᴍᴀᴋɪɴɢ sᴛɪᴄᴋᴇʀs",
+                  "title": "Sticker",
+                  "description": "Features for making stickers",
                   "rowId": ".? stiker"
                 }, { 
-                "title": "ᴀɴɪᴍᴇ",
-                "description": "ᴀɴɪᴍᴇ ʀᴇʟᴀᴛᴇᴅ ᴘʟᴜɢɪɴ",
+                "title": "Anime",
+                "description": "Anime Related Plugin",
                 "rowId": ".? anime"
               },  {
-                  "title": "ǫᴜᴏᴛᴇs",
-                  "description": "ɢɪᴠᴇs ʏᴏᴜ ʀᴀɴᴅᴏᴍ ǫᴜᴏᴛᴇs",
+                  "title": "Quotes",
+                  "description": "Gives You random quotes",
                   "rowId": ".? quote"
                 }, {
-                  "title": "ᴀᴅᴍɪɴ",
-                  "description": "ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs",
+                  "title": "Admin",
+                  "description": "Group Admin Commands",
                   "rowId": ".? admin"
                 }, {
-                  "title": "ɢʀᴏᴜᴘ",
-                  "description": "ɢʀᴏᴜᴘ ʀᴇʟᴀᴛᴇᴅ ᴄᴏᴍᴍᴀɴᴅs",
+                  "title": "Grup",
+                  "description": "Group Related Commands",
                   "rowId": ".? grup"
                 }, {
-                  "title": "ᴘʀᴇᴍɪᴜᴍ",
-                  "description": "ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs ᴘʟᴜɢɪɴs",
+                  "title": "Premium",
+                  "description": "Premium Users Plugins",
                   "rowId": ".? premium"
                 }, {
-                  "title": "ɪɴᴛᴇʀɴᴇᴛ",
-                  "description": "ᴄᴏᴍᴍᴀɴᴅs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ɪɴᴛᴇʀɴᴇᴛ",
+                  "title": "Internet",
+                  "description": "Commands Related To Internet",
                   "rowId": ".? internet"
                 }, {
-                  "title": "ᴀɴᴏɴʏᴍᴏᴜs",
-                  "description": "ᴛᴏ sᴛᴀʀᴛ ᴀɴᴏɴʏᴍᴏᴜs ᴄʜᴀᴛᴛɪɴɢ",
+                  "title": "Anonymous",
+                  "description": "To Start Anonymous Chatting",
                   "rowId": ".? anonymous"
                 }, {
-                  "title": "ᴍᴀɢɪᴄ sʜᴇʟʟ",
-                  "description": "ʀᴀɴᴅᴏᴍ ᴀɴsᴡᴇʀ ғᴇᴀᴛᴜʀᴇ",
+                  "title": "Magic Shell",
+                  "description": "Random answer feature",
                   "rowId": `.? magicshell`
                 }, {
-                  "title": "ɴᴜʟɪs & ʟᴏɢᴏ",
-                  "description": "ᴛᴇxᴛ ᴍᴀᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs"",
+                  "title": "Nulis & Logo",
+                  "description": "Text Maker Coammnds",
                   "rowId": ".? nulis"
                 }, {
-                  "title": "ᴅᴏᴡɴʟᴏᴀᴅᴇʀ",
-                  "description": "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴄᴏᴍᴍᴀɴᴅs",
+                  "title": "Downloader",
+                  "description": "Downloading Commnds",
                   "rowId": ".? downloader"
                 }, {
-                  "title": "ᴛᴏᴏʟs",
-                  "description": "ᴛᴏᴏʟ ғᴇᴀᴛᴜʀᴇs",
+                  "title": "Tools",
+                  "description": "Tool features",
                   "rowId": ".? tools"
                 }, {
-                  "title": "ᴠᴏɪᴄᴇ ᴄʜᴀɴɢᴇʀ",
-                  "description": "ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ᴠᴏɪᴄᴇ",
+                  "title": "Voice Changer",
+                  "description": "To change the voice",
                   "rowId": `.? audio`
                 }, {
-                  "title": "ғᴜɴ",
-                  "description": "ᴊᴜsᴛ ғᴏʀ ғᴜɴ",
+                  "title": "Fun",
+                  "description": "Just for fun",
                   "rowId": ".? fun"
                 }, {
-                  "title": "ᴅᴀᴛᴀʙᴀsᴇ",
-                  "description": "ᴜsᴇʀ ᴅᴀᴛᴀʙᴀsᴇ",
+                  "title": "Database",
+                  "description": "User database",
                   "rowId": ".? database"
                 },{
-                  "title": "ᴏᴡɴᴇʀ",
-                  "description": "ᴏᴡɴᴇʀ's sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs",
+                  "title": "Owner",
+                  "description": "Owner's special features",
                   "rowId": ".? owner"
                 }
               ]
