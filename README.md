@@ -65,7 +65,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
   <a href="https://github.com/yashcybrot/Wizrad-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
-## 📢 Guide
+## 📢 CONTACT US
 Click WA logo to Join Support Group 👇
     <br>
 <br>
